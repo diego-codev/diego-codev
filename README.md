@@ -26,5 +26,5 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ## 📫 Contact
 
-- 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
+- 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diegooliveira-code/)  
 - ✉️ **Email:** [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
