@@ -30,5 +30,4 @@ I have practical experience working on software projects, assisting students in 
 ## 📫 How to Reach Me
 
 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
-
 ✉️ **Email:** [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
