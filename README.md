@@ -3,7 +3,6 @@
 A **developer and Computer Science student** at the Federal University of Lavras (UFLA) with a strong foundation in programming and problem-solving.  
 I have practical experience working on software projects, assisting students in programming courses, and exploring new technologies to build efficient and creative solutions.
 
----
 
 ## 🛠️ Technologies and Tools
 
@@ -14,7 +13,6 @@ I have practical experience working on software projects, assisting students in 
 
 **Main languages:** C++, Python  
 
----
 
 ## 📚 About Me
 
@@ -28,7 +26,6 @@ I have practical experience working on software projects, assisting students in 
 🚀 **Seeking:**
 - Opportunities in the software development field to apply and expand my knowledge
 
----
 
 ## 📫 How to Reach Me
 
