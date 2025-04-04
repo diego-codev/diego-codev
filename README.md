@@ -18,7 +18,7 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 - Assisting students as a **teaching assistant in programming** (2025) 
 - Developing software projects (academic and personal)  
   
-🚀 **Seeking:**  
+🚀 **Looking For:**  
 - Opportunities in the software development field to apply and expand my knowledge
   
 ## 📫 Contact
