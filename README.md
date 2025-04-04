@@ -31,9 +31,3 @@ Opportunities in the software development field to apply and expand my knowledge
 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
 
 ✉️ **Email:** [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegocodehub&show_icons=true&theme=tokyonight)
