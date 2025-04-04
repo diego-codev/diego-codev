@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Diego Oliveira
 
-I'm a Computer Science student at the Federal University of Lavras (UFLA), passionate about solving problems and creating innovative solutions through code.  
-I have hands-on experience with various programming languages and enjoy exploring new technologies to build efficient and creative software.
+A **developer and Computer Science student** at the Federal University of Lavras (UFLA) with a strong foundation in programming and problem-solving.  
+I have practical experience working on software projects, assisting students in programming courses, and exploring new technologies to build efficient and creative solutions.
 
 ---
 
@@ -18,7 +18,7 @@ I have hands-on experience with various programming languages and enjoy explorin
 - Currently pursuing a Bachelor's in Computer Science (UFLA)
 
 🧑‍🏫 **Experience:**  
-- Teaching basic computer skills  
+- Assisting students as a **teaching assistant in programming** (2025)
 - Developing software projects (academic and personal)
 
 🚀 **Seeking:**
