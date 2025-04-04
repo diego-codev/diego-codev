@@ -11,10 +11,14 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ## 📚 About Me
 
-- 🎓 **Academic Background:** Currently pursuing a Bachelor's in Computer Science (UFLA)  
-- 🧑‍🏫 **Experience:** Assisting students as a teaching assistant in programming (2025); developing software projects (academic and personal)
-- 🚀 **Career Interests:** Opportunities in the software development field to apply and expand my knowledge  
-
+🎓 **Education:**  
+- Currently pursuing a Bachelor's in Computer Science (UFLA)
+🧑‍🏫 **Experience:**  
+- Teaching basic computer skills  
+- Developing software projects (academic and personal)  
+- Assisting students as a **teaching assistant in programming** (2025)
+🚀 **Seeking:**  
+- Opportunities in the software development field to apply and expand my knowledge
 ## 📫 Contact
 
 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
