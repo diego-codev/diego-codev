@@ -12,7 +12,8 @@ I have practical experience working on software projects, assisting students in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-**Programming:** C++, Python
+**Main languages:** C++, Python  
+**Other tools I use daily:** Git, GitHub, VS Code
 
 ---
 
