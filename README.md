@@ -9,8 +9,6 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-**Main languages:** C++, Python  
-
 ## 📚 About Me
 
 🎓 **Education:**  
@@ -23,7 +21,7 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 🚀 **Seeking:**
 - Opportunities in the software development field to apply and expand my knowledge
 
-## 📫 How to Reach Me
+## 📫 Contact
 
 🔗 **LinkedIn:** [Diego Oliveira](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
 ✉️ **Email:** [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
