@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Diego Oliveira
 
-<!--
-**diegocodehub/diegocodehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the Federal University of Lavras (UFLA), passionate about solving problems and creating innovative solutions through code.  
+I have hands-on experience with various programming languages and enjoy exploring new technologies to build efficient and creative software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies and Tools
+
+- Programming: `C++`, `Python`
+- Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📚 About Me
+
+🎓 **Education:**  
+- Currently pursuing a Bachelor's in Computer Science (UFLA)
+
+🧑‍🏫 **Experience:**  
+- Teaching basic computer skills  
+- Developing software projects (academic and personal)
+
+🚀 **Seeking:**  
+Opportunities in the software development field to apply and expand my knowledge
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
+✉️ diegoalves.div@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegocodehub&show_icons=true&theme=tokyonight)
