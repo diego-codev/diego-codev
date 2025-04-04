@@ -21,7 +21,8 @@ I have hands-on experience with various programming languages and enjoy explorin
 - Teaching basic computer skills  
 - Developing software projects (academic and personal)
 
-🚀 **Seeking:**  
+🚀 **Seeking:**
+
 Opportunities in the software development field to apply and expand my knowledge
 
 ---
