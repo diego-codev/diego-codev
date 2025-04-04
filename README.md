@@ -13,7 +13,6 @@ I have practical experience working on software projects, assisting students in 
 </p>
 
 **Main languages:** C++, Python  
-**Other tools I use daily:** Git, GitHub, VS Code
 
 ---
 
