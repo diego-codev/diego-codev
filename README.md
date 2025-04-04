@@ -10,7 +10,7 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 `C++`, `Python`
 
 **Tools:**  
-`Git`, `GitHub`, `VS Code`
+`GitHub`, `VS Code`
 
 ---
 
