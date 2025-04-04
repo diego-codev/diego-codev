@@ -2,7 +2,6 @@
 
 A **developer and Computer Science student at UFLA** with a strong foundation in programming and problem-solving. I have practical experience working on software projects, assisting students in programming courses, and exploring new technologies to build efficient and creative solutions.
 
-
 ## 🛠️ Technologies and Tools
 
 <p align="left">
@@ -12,13 +11,17 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 **Main languages:** C++, Python  
 
-
 ## 📚 About Me
 
-- 🎓 **Education:** Currently pursuing a Bachelor's in Computer Science (UFLA)
-- 🧑‍🏫 **Experience:** Teaching assistant in programming (2025), software development (academic & personal)  
-- 🚀 **Seeking:** Opportunities in the software development field to apply and expand my knowledge
+🎓 **Education:**  
+- Currently pursuing a Bachelor's in Computer Science (UFLA)
 
+🧑‍🏫 **Experience:**  
+- Assisting students as a **teaching assistant in programming** (2025)
+- Developing software projects (academic and personal)
+
+🚀 **Seeking:**
+- Opportunities in the software development field to apply and expand my knowledge
 
 ## 📫 How to Reach Me
 
