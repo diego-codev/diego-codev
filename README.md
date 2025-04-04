@@ -22,8 +22,7 @@ I have hands-on experience with various programming languages and enjoy explorin
 - Developing software projects (academic and personal)
 
 🚀 **Seeking:**
-
-Opportunities in the software development field to apply and expand my knowledge
+- Opportunities in the software development field to apply and expand my knowledge
 
 ---
 
