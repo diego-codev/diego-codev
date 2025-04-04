@@ -11,15 +11,9 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ## 📚 About Me
 
-🎓 **Education:**  
-- Currently pursuing a Bachelor's in Computer Science (UFLA)
-
-🧑‍🏫 **Experience:**  
-- Assisting students as a **teaching assistant in programming** (2025)
-- Developing software projects (academic and personal)
-
-🚀 **Seeking:**
-- Opportunities in the software development field to apply and expand my knowledge
+- 🎓 **Academic Background:** Currently pursuing a Bachelor's in Computer Science (UFLA)  
+- 🧑‍🏫 **Experience:** Assisting students as a teaching assistant in programming (2025); developing software projects (academic and personal)
+- 🚀 **Career Interests:** Opportunities in the software development field to apply and expand my knowledge  
 
 ## 📫 Contact
 
