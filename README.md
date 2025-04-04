@@ -16,15 +16,9 @@ I have practical experience working on software projects, assisting students in 
 
 ## 📚 About Me
 
-🎓 **Education:**  
-- Currently pursuing a Bachelor's in Computer Science (UFLA)
-
-🧑‍🏫 **Experience:**  
-- Assisting students as a **teaching assistant in programming** (2025)
-- Developing software projects (academic and personal)
-
-🚀 **Seeking:**
-- Opportunities in the software development field to apply and expand my knowledge
+- 🎓 **Education:** Currently pursuing a Bachelor's in Computer Science (UFLA)
+- 🧑‍🏫 **Experience:** Teaching assistant in programming (2025), software development (academic & personal)  
+- 🚀 **Seeking:** Opportunities in the software development field to apply and expand my knowledge
 
 
 ## 📫 How to Reach Me
