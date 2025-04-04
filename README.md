@@ -28,7 +28,7 @@ Opportunities in the software development field to apply and expand my knowledge
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://www.linkedin.com/in/diego-oliveira-2328bb277/)  
+[![LinkedIn](https://img.shields.io/badge/-Diego%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-oliveira-2328bb277/)](https://www.linkedin.com/in/diego-oliveira-2328bb277/)
 ✉️ diegoalves.div@gmail.com
 
 ---
