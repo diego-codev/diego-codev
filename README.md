@@ -4,15 +4,10 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Core Technologies
 
-**Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -26,5 +21,7 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ---
 
-### 📫 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/diegooliveira-code) or email me at diegoalves.div@gmail.com
+## 📫 Contact
+
+- 🔗 LinkedIn: [Diego Oliveira](https://www.linkedin.com/in/diegooliveira-code)
+- 📧 Email: diegoalves.div@gmail.com
