@@ -4,7 +4,7 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ---
 
-## 🛠️ Core Technologies
+## 🧠 Core Technologies
 
 - **C++**
 - **Python**
