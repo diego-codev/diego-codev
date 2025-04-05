@@ -26,6 +26,6 @@ Main languages: **C++** • **Python**
 ## 📫 Contact
 
 - 🔗 LinkedIn: [Diego Oliveira](https://www.linkedin.com/in/diegooliveira-code)
-- 📧 Email: diegoalves.div@gmail.com
+- 📧 Email: [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
 
 ---
