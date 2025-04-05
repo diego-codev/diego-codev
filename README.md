@@ -4,14 +4,15 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ---
 
-### 🛠️ Core Technologies
+## 🛠️ Core Technologies
+
+I have experience with the following programming languages:
 
 - **C++**
 - **Python**
-- 
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ---
 
 ## 📚 About Me
