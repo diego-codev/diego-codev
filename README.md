@@ -27,4 +27,4 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 ---
 
 ### 📫 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/seu-perfil) or email me at diegoalves.div@gmail.com
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/diegooliveiracode) or email me at diegoalves.div@gmail.com
