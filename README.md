@@ -20,3 +20,5 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
   • Teaching assistant in programming at **UFLA** (2025).  
   • Development of academic and personal software projects.
 - 🚀 **Career Interests:** Applying my skills in software development and growing through real-world experience.
+
+---
