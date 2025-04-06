@@ -22,10 +22,3 @@ Main languages: **C++** • **Python**.
 - 🚀 **Career Interests:** Applying my skills in software development and growing through real-world experience.
 
 ---
-
-## 📫 Contact
-
-- 🔗 LinkedIn: [Diego Oliveira](https://www.linkedin.com/in/diegooliveira-code)
-- 📧 Email: [diegoalves.div@gmail.com](mailto:diegoalves.div@gmail.com)
-
----
