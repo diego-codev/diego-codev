@@ -1,6 +1,6 @@
 # Diego Oliveira 👋
 
-A **developer and Computer Science student at UFLA** with a strong foundation in programming and problem-solving. I have practical experience working on software projects, assisting students in programming courses, and exploring new technologies to build efficient and creative solutions.
+A **Computer Science student at UFLA and back-end developer** with hands-on experience in building scalable APIs, scripting for data analysis, and supporting programming education. Passionate about algorithms, software engineering, and applying new technologies to create efficient and innovative solutions.
 
 ---
 
@@ -22,10 +22,10 @@ A **developer and Computer Science student at UFLA** with a strong foundation in
 
 ## 📚 About Me
 
-- 🎓 **Education:** Currently pursuing a Bachelor's in Computer Science at **UFLA**.
-- 🧑‍🏫 **Experience:**  
-  • Teaching assistant in programming at **UFLA** (2025).  
-  • Development of academic and personal software projects.
-- 🚀 **Career Interests:** Applying my skills in software development and growing through real-world experience.
+- 🎓 **Education:** Bachelor's in Computer Science at **UFLA** (2024–2028).  
+- 💼 **Professional Experience:**  
+  • **Back-end Developer at Emakers Jr:** Developing Java/Spring Boot APIs, PostgreSQL databases, Dockerized applications, API integrations, and documentation with Swagger/OpenAPI.  
+  • **Monitor – Introduction to Algorithms (C++/Python):** Creating exercises, grading, analyzing student performance, and mentoring in programming.  
+- 🚀 **Career Interests:** Applying technical skills in software development, solving real-world problems, and continuously learning new technologies.  
+- 💡 **Strengths:** Problem-solving, algorithm design, backend development, teamwork, and clear technical communication.
 
----
